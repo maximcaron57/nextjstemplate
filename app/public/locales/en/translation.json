@@ -1,0 +1,135 @@
+{
+  "404PageMessage": "There is nothing here!",
+  "alert": {
+    "mustLoginOrRegister": "You must first login or register to access this resource. You will be redirected automatically after logging in.",
+    "clickToDismiss": "Click on this ribbon or log in to remove the warning."
+  },
+  "footer": {
+    "subsidiary": "is a subsidiary of",
+    "since": "As of January 19th",
+    "partOf": "is part of ",
+    "privacyNotice": "Privacy notice"
+  },
+  "nav": {
+    "home": "Home",
+    "availableServices": "Available Services",
+    "requestsHistory": "Requests History",
+    "openPrincipalMenu": "Open principal menu",
+    "openUserMenu": "Open user menu",
+    "register": "Register",
+    "login": "Login",
+    "logout": "Logout",
+    "viewCart": "View cart",
+    "needHelp": "Need immediate help? Contact us at 555-555-5555 or info@forensik.ca"
+  },
+  "errorSection": {
+    "returnHome": "Revenir à l'accueil"
+  },
+  "home": {
+    "computerForensics": "Computer forensics investigation",
+    "businessOriented": "Business oriented services only",
+    "viewAvailableServices": "View the available services →",
+    "permit": "Permit",
+    "bestOffice": "Take advantage of the leading computer forensics company to identify the source of malicious or criminal activities and put an end to them quickly"
+  },
+  "requests": {
+    "requests": "Requests"
+  },
+  "securityForm": {
+    "form": {
+      "optional": "(Optional)"
+    }
+  },
+  "services": {
+    "addSuccess": "Service added successfully.",
+    "removeSuccess": "Service removed successfully.",
+    "error": "An error has occured while modifying the services.",
+    "selectServices": "Select your desired services in order to generate a security questionnaire.",
+    "processDescription": "The security questionnaire helps us to target your needs and speeds up the onboarding process dramatically. No purchase is required throughout the process.",
+    "modal": {
+      "button": "Create a request",
+      "title": "Creation of a service request",
+      "description": "This action will redirect you to the security questionnaire and will create a request on our side for the following services:",
+      "free": "Free",
+      "close": "Close",
+      "confirm": "Confirm",
+      "emptyCart": "You must select one or more services to create a request. Please close this window and make a services selection according to your needs."
+    }
+  },
+  "register": {
+    "email": "Email",
+    "password": "Password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phoneNumber": "Phone number (optional)",
+    "organization": "Organziation (optional)",
+    "title": "Title (optional)",
+    "language": "Language",
+    "register": "Register",
+    "alreadyRegistered": "Already have an account? Click here to login.",
+    "form": {
+      "errors": {
+        "username": {
+          "required": "An email is required",
+          "invalid": "Invalid email",
+          "length": "Your email must contain between 3 and 50 characters"
+        },
+        "password": {
+          "required": "A password is required",
+          "invalid": "Invalid password",
+          "strategy": "Password must be between 8 and 50 characters long, one number, at least one uppercase letter, at least one lowercase letter, at least one number and at least one special character",
+          "length": "Password must be between 8 and 50 characters long"
+        },
+        "firstName": {
+          "required": "A first name is required",
+          "invalid": "Invalid first name",
+          "length": "First name must be under 50 characters long"
+        },
+        "lastName": {
+          "required": "A last name is required",
+          "invalid": "Invalid last name",
+          "length": "Last name must be under 50 characters long"
+        },
+        "phoneNumber": {
+          "invalid": "Invalid phone number, the accepted format is: 555-555-5555"
+        },
+        "organization": {
+          "invalid": "Invalid organization",
+          "length": "Organization must be under 50 characters long"
+        },
+        "title": {
+          "invalid": "Invalid title",
+          "length": "Title must be under 50 characters long"
+        },
+        "language": {
+          "invalid": "Invalid language"
+        }
+      }
+    },
+    "registrationSuccess": "Your account has been created successfully, please enter your credentials."
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "noAccount": "Don't have an account yet? Click here to register.",
+    "form": {
+      "errors": {
+        "username": {
+          "required": "An email is required",
+          "invalid": "Invalid email",
+          "length": "Your email must contain between 3 and 50 characters"
+        },
+        "password": {
+          "required": "A password is required",
+          "invalid": "Invalid password",
+          "strategy": "Password must be between 8 and 50 characters long, at least one uppercase letter, at least one lowercase letter, at least one number and at least one special character",
+          "length": "Password must be between 8 and 50 characters long"
+        }
+      }
+    }
+  },
+  "fetchWrapper": {
+    "errorHasOccurred": "An error has occured"
+  }
+}
